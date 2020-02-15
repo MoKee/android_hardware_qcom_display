@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1581731720 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_hardware_qcom_display\nnonce 1581731720-64A55744E177C51AAFA8203952C6D85F3FEDE0E5\n\nece3cbe7aebb41e9e0e3884477366bdb7ce75976 8fba0825966b4175072a220078c5806a57501889 refs/heads/mkq-mr1-caf-sm8150\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl5HT4gACgkQ8iL05i7N\nJTHFrQf/Yeau8vJCKheTA6LJ8Or4vLuaHEyBuTAsslq7TwsLNjNtpQZQ1tP6RaVC\nKPrjG0ycghj02Ez9isPG3i+e1c1cv1fPsilpOGi3zfKtEhJMgdyNDFeTr1A97TXe\n/1rsRDYjBZ8IU6FPMbycpm4ICYOYkI81ZB+k59X+XW8qlwZpU3Dh6s8sEpDvPvbv\n0NGUiAPcn2fR0sJ69iuonF4dd9Lsb/mtDkGKlB8r+wLXwlnGg0IiWh+CEgDDS9ZZ\nGUQpy+bHeWT9PkCZbPIzHshLkHqrgPGLDZCiFIMllLc73Z493iv6i4VpTa2lC659\nOGvghni7fYYr0LAFSkIQZah5ZxPOEA\u003d\u003d\n\u003dBGlA\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
